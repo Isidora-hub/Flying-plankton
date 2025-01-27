@@ -9,6 +9,8 @@ Traits Determine Dispersal and Colonization Abilities of Microbes
 #### Authors
 Isidora Echenique-Subiabre, Sara L. Jackrel, Jay McCarren, Chase C. James, Elisabet Perez-Coronel, Cindy Tran, Madeline Perreault, Ugbad Farah, P. Signe White, Henry K. Baker, Christopher Wall, Lindsay Sager, Scott Becker, Andrew Barton and Jonathan B. Shurin
 
+[![DOI](https://zenodo.org/badge/631060996.svg)](https://doi.org/10.5281/zenodo.14744466)
+
 
 # Notes on cleaned data file
 
