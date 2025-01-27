@@ -4,6 +4,10 @@ This project analyzes dispersal and colonization abilities in microorganisms fro
 # Flying-plankton
 Shurin Lab (UCSD) flying plankton collaboration
 
+#### Associated article:
+Traits Determine Dispersal and Colonization Abilities of Microbes
+Isidora Echenique-Subiabre, Sara L. Jackrel, Jay McCarren, Chase C. James, Elisabet Perez-Coronel, Cindy Tran, Madeline Perreault, Ugbad Farah, P. Signe White, Henry K. Baker, Christopher Wall, Lindsay Sager, Scott Becker, Andrew Barton and Jonathan B. Shurin
+
 
 # Notes on cleaned data file
 
